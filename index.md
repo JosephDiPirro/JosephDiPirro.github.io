@@ -7,4 +7,8 @@ I study at: [Niagara University](https://niagara.edu)
 
 Classes that I take:
 * CIS 198
-* COHST 
+* HST 105 
+* MHR 241
+* ACC 112
+* PHI 105
+
