@@ -1,11 +1,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>joey's new page</title>
 </head>
 <body>
 
-<h1>This is a Heading</h1>
+<h1>My 1st heading</h1>
+
+The classes I take: <br>
+<ul>
+  <li>class 1</li>
+  <li></li>
+
+
+
+
+
+
+
+
+<a href="httpsmy university</a>
+
+
 <p>This is a paragraph.</p>
 
 </body>
